@@ -1,13 +1,9 @@
 ## 𝗛𝗶 👋 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀 𝗡𝗶𝗸𝗵𝗮𝗿
-<!--
-I've been learning to code since 2022. I started my coding journey with the C language. After that, my learning curve became exponential. I was learning frontend development along with Java and Python at the University. Then I started learning about networking and operating systems. Currently, I am exploring web3.
--->
 * 🌍 I'm based in India
-* 🖥️ See my portfolio at [nikharsavaliya.me](http://nikharsavaliya.me)
-* 📫 You can contact me at [nikhar663@gmail.com](mailto:nikhar663@gmail.com)
-* 🧠 I'm learning about DevOps, and Forcing myself to use Terminal.
+* 🖥️ See my work at [nikharsavaliya.me](http://nikharsavaliya.me)
+* 📫 You can contact me via mail at [nikhar663@gmail.com](mailto:nikhar663@gmail.com)
+* 🧠 I'm learning about web cloud and devops.
 * 🤝 I'm open to collaborating on projects.
-* 🔍 Actively Looking for an Entry-Level role in web development. 
 
 <!-- <img alt="Discord" src="https://img.shields.io/discord/1284548472363679835?style=flat&logo=discord&logoColor=8aadf4&label=%20&labelColor=24273a&color=8aadf4"> -->
 
@@ -16,7 +12,7 @@ I've been learning to code since 2022. I started my coding journey with the C la
 
 <p>
   <a href="https://discord.gg/vUHMxPvege">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,redux,nextjs,tailwind,express,mongodb,mysql&theme=dark"  height="36" alt="Frontend skills"  />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,zustand,reactquery,nextjs,tailwind,express,mongodb,postgresql&theme=dark"  height="36" alt="Frontend skills"  />
   </a>
 </p>
 
